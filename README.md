@@ -39,22 +39,11 @@ $ python manage.py runserver
 ```
 >**have a good time!😁**
 
-## 👨‍💻 Como contribuir
-
-Este é um projeto aberto, e todos estão convidados a contribuir para o seu desenvolvimento. Se você deseja contribuir, por favor, siga as seguintes etapas:
-
-- Faça um fork deste repositório.
-- Crie uma branch para a funcionalidade que você deseja adicionar.
-- Faça um pull request para o branch master.
-
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+This project is licensed under the MIT license. See the LICENSE file for more details.
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-Comentários finais
-Este projeto foi desenvolvido com o objetivo de fornecer uma base sólida para quem deseja desenvolver sua própria aplicação de rede social. Ele pode ser usado como base para desenvolvimento de projetos pessoais ou comerciais. Sinta-se livre para fazer modificações e adaptações de acordo com suas necessidades.
 
 ## 🛠️ Built With
 
