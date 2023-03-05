@@ -75,7 +75,7 @@ LOGIN_URL = '/auth/login/'
 
 LANGUAGE_CODE = 'pt-br'
 
-TIME_ZONE = 'America/Santa_Catarina'
+TIME_ZONE = 'America/Sao_Paulo'
 
 USE_I18N = True
 
